@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(234,234,234);
+}
+
+.container{
+    width: 100%;
+    max-width: 700px;
+    margin: 50px auto;
+    background-color:white;
+    border-radius: 8px;
+    position: relative;
+    padding: 5px;
+  
+}
+
+.image{
+  text-align: center;
+}
+
+
+img{
+    width: 80%;
+    height: 15em;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+figcaption{
+    margin-right: 66%;
+    font-size: 11px ;
+}
+
+.receita{
+    margin: 50px 30px;
+    
+}
+
+.ingredientes h2{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.ingredientes li{
+    line-height: 35px;
+}
+
+.preparo h2{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.preparo li{
+    line-height: 35px;
+}
+
+.informações h3{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
